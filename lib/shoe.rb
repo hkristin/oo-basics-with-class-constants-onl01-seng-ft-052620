@@ -18,5 +18,5 @@ def brand=(brand)
   @brand = brand
   
 end
-BRANDS.size = 3
+BRANDS.size = [3]
 end
