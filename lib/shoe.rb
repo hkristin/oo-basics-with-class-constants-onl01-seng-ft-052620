@@ -18,5 +18,4 @@ def brand=(brand)
   @brand = brand
   
 end
-BRANDS.size= []
 end
