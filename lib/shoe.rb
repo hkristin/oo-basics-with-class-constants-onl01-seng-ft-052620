@@ -18,5 +18,5 @@ def brand=(brand)
   BRANDS << brand
 end
 
-BRANDS
+3 = BRANDS.size
 end
